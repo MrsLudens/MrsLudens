@@ -36,13 +36,13 @@
 ## 🙆‍♀️ &nbsp;Social Links
 <p align="left" style="background:purple">
 <a href="https://www.instagram.com/mrsludens/" target="_blanc">
-<img align="center src="https://img.shields.io/badge/-MrsLudens-05122A?style=flat&logo=instagram" alt="instagram"/>
+<img align="center src="https://img.shields.io/badge/MrsLudens-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="www.linkedin.com/in/gabriela-suzana-passos-da-silveira-769411154" target="_blanc">
-<img align="center src="https://img.shields.io/badge/-GabrielaSilveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<img align="center src="https://img.shields.io/badge/GabrielaSilveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://twitter.com/Mrsludens" target="_blanc">
-<img align="center src="https://img.shields.io/badge/-MrsLudens-05122A?style=flat&logo=twitter" alt="twitter"/>
+<img align="center src="https://img.shields.io/badge/MrsLudens-05122A?style=flat&logo=twitter" alt="twitter"/>
 </a>
 
                    
