@@ -1,4 +1,4 @@
-<img align="right" height="598" src="https://gist.github.com/MrsLudens/6a92e14a5d4f32a1d98c0d9f3bc2cb12" />
+<img align="right" height="598" src="https://raw.githubusercontent.com/gist/MrsLudens/6a92e14a5d4f32a1d98c0d9f3bc2cb12/raw/161b475195b00e95760111f78f951e7cc7305409/githubcard.svg" />
 <h1 align="left"> Hello! I'm Gabriela Silveira! </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrsLudens&color=blue" alt="Profile views /> </p>
