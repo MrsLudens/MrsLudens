@@ -1,4 +1,7 @@
-### Hi there 👋
+<img align="right" height="598" src="https://raw.githubusercontent.com/gist/MrsLudens/6a92e14a5d4f32a1d98c0d9f3bc2cb12/raw/8cc1a2c59469552cb56525b3debb94f463da4e0f/githubcard.svg" />
+<h1 align="left"> Hello!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" >, I'm Gabriela Silveira! </h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrsLudens&color=purple" alt="Profile views /></p>
 
 <!--
 **MrsLudens/MrsLudens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
