@@ -2,6 +2,7 @@
 <h1 align="left"> Hello! I'm Gabriela Silveira! </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrsLudens&color=blue" alt="Profile views /> </p>
+<p
 
 - ✨ I’m currently learning
 - 🌱 Still in the graduation of systems analysis and development
@@ -9,6 +10,7 @@
 - 📷 Photograph in spare time
 - ⚡ Fun fact: I have 12 dogs 🐕
 
+></p>
 <br></br>
 
 ## 🛠 &nbsp;Tech Stack
